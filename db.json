@@ -1,194 +1,192 @@
 {
   "destinations": [
-    [
-      {
-        "id": "1",
-        "name": "Long Beach",
-        "image": "https://statics.vinpearl.com/vietnam-beaches-4_1690363720.jpg",
-        "description": "Stretching for more than twenty kilometers along the coastline, Long Beach (“Bai Truong” in Vietnamese) is the longest and most famous beach on this island",
-        "rating": 4.8,
-        "price": "300",
-        "duration": 5,
-        "location": "Phu Quoc",
-        "category": "Beaches"
-      },
-      {
-        "id": "2",
-        "name": "Doc Let Beach",
-        "image": "https://statics.vinpearl.com/vietnam-beaches-5_1669736030.jpeg",
-        "description": "Considered the most stunning beach in Khanh Hoa Province, Doc Let is a great hideaway in Southern Vietnam",
-        "rating": 4.5,
-        "price": "250",
-        "duration": 6,
-        "location": "Nha Trang",
-        "category": "Beaches"
-      },
-      {
-        "id": "3",
-        "name": "My Khe Beach",
-        "image": "https://statics.vinpearl.com/vietnam-beaches-2_1690363973.jpg",
-        "description": "Among the fabulous sandy best beaches in Vietnam, My Khe Beach is the most famous",
-        "rating": 4.4,
-        "price": "200",
-        "duration": 2,
-        "location": "Da Nang",
-        "category": "Beaches"
-      },
-      {
-        "id": "4",
-        "name": "Ly Son Beach",
-        "image": "https://statics.vinpearl.com/vietnam-beaches-11_1669735960.jpg",
-        "description": "Ly Son Island in Quang Ngai is one of the best beaches in Vietnam",
-        "rating": 5,
-        "price": "350",
-        "duration": 4,
-        "location": "Quang Ngai",
-        "category": "Beaches"
-      },
-      {
-        "id": "5",
-        "name": "Ti Top Beach",
-        "image": "https://statics.vinpearl.com/vietnam-beaches-7_1669735996.jpg",
-        "description": "Ti Top Beach on Ti Top Island is one of the top-rated Vietnam's beaches in Ha Long that you should not miss out on",
-        "rating": 5,
-        "price": "400",
-        "duration": 6,
-        "location": "Ha Long",
-        "category": "Beaches"
-      },
-      {
-        "id": "6",
-        "name": "Do Son Beach",
-        "image": "https://statics.vinpearl.com/vietnam-beaches-3_1690364051.jpg",
-        "description": "Do Son Beach in Hai Phong is one of the best beaches in Vietnam in summer thanks to its convenient location and outstanding beauty",
-        "rating": 4.8,
-        "price": "334",
-        "duration": 2,
-        "location": "Hai Phong",
-        "category": "Beaches"
-      },
-      {
-        "id": "7",
-        "name": "Ky Co Beach",
-        "image": "https://statics.vinpearl.com/vietnam-beaches-12_1669735951.jpg",
-        "description": "Located about 25 kilometers away from Quy Nhon, Ky Co Beach has a pristine beauty with blue sea and white sand",
-        "rating": 5,
-        "price": "440",
-        "duration": 5,
-        "location": "Binh Dinh",
-        "category": "Beaches"
-      },
-      {
-        "id": "8",
-        "name": "Thien Cam Beach",
-        "image": "https://statics.vinpearl.com/vietnam-beaches-6_1690280594.jpg",
-        "description": "Tucked away in the province of Ha Tinh, Vietnam, lies the hidden gem of Thien Cam Beach, a haven of pristine beauty and tranquility",
-        "rating": 5,
-        "price": "500",
-        "duration": 4,
-        "location": "Ha Tinh",
-        "category": "Beaches"
-      },
-      {
-        "id": "9",
-        "name": "Lang Co Beach",
-        "image": "https://statics.vinpearl.com/vietnam-beaches-13_1669735942.jpg",
-        "description": "Voted as one of the world’s most beautiful bays in 2009, Lang Co Bay in Thua Thien Hue province is a top place for a beach vacation in Central Vietnam",
-        "rating": 5,
-        "price": "600",
-        "duration": 6,
-        "location": "Hue",
-        "category": "Beaches"
-      },
-      {
-        "id": "10",
-        "name": "Fansipan Peak",
-        "image": "https://gcs.tripi.vn/public-tripi/tripi-feed/img/474148Tsx/dinh-nui-fansipan-lao-cai-1028201.jpg",
-        "description": "Fansipan is the highest mountain in Vietnam, also known as the Roof of Indochina",
-        "rating": 5,
-        "price": "1000",
-        "duration": 3,
-        "location": "Lao Cai",
-        "category": "Mountains"
-      },
-      {
-        "id": "11",
-        "name": "Bach Ma",
-        "image": "https://gcs.tripi.vn/public-tripi/tripi-feed/img/474148cGF/nui-bach-ma-hue-1028206.jpg",
-        "description": "Situated within the Bạch Mã National Park and reaching a height of 1,450m, this area is renowned as a famous cool retreat in Vietnam",
-        "rating": 4.8,
-        "price": "300",
-        "duration": 5,
-        "location": "Hue",
-        "category": "Mountains"
-      },
-      {
-        "id": "12",
-        "name": "Langbiang",
-        "image": "https://gcs.tripi.vn/public-tripi/tripi-feed/img/474148QjE/nui-langbiang-da-lat-1028207.jpg",
-        "description": "Langbiang Mountain - Da Lat, one of the ideal tourist destinations for travelers. Langbiang is known far and wide as an ideal tourist destination",
-        "rating": 4.8,
-        "price": "330",
-        "duration": 7,
-        "location": "Da Lat",
-        "category": "Mountains"
-      },
-      {
-        "id": "13",
-        "name": "Pu Si Lung",
-        "image": "https://gcs.tripi.vn/public-tripi/tripi-feed/img/474148wuG/pu-si-lung-lai-chau-1028213.jpg",
-        "description": "Pu Si Lung (3,076m) is a mountain located in the northwest of Lai Chau province, between the Da River and the upper reaches of the Nam Na River (a tributary of the Da River) on the Vietnam-China border",
-        "rating": 5,
-        "price": "500",
-        "duration": 2,
-        "location": "Lai Chau",
-        "category": "Mountains"
-      },
-      {
-        "id": "14",
-        "name": "Ho Chi Minh",
-        "image": "https://statics.vinpearl.com/largest-city-in-vietnam-1_1688179194.jpg",
-        "description": "Ho Chi Minh City, the largest city in Vietnam, is a vibrant metropolis. A visit to this bustling city is incomplete without exploring its iconic landmarks",
-        "rating": 5,
-        "price": "2000",
-        "duration": 4,
-        "location": "Viet Nam",
-        "category": "Cities"
-      },
-      {
-        "id": "15",
-        "name": "Hai Phong",
-        "image": "https://statics.vinpearl.com/largest-city-in-vietnam-2_1688179182.jpg",
-        "description": "Hai Phong, as the third largest city in Vietnam, offers the best of nature and cuisine",
-        "rating": 4.8,
-        "price": "300",
-        "duration": 5,
-        "location": "Viet Nam",
-        "category": "Cities"
-      },
-      {
-        "id": "16",
-        "name": "Ha Noi",
-        "image": "https://owa.bestprice.vn/images/destinations/uploads/trung-tam-thanh-pho-ha-noi-603da1f235b38.jpg",
-        "description": "It is a captivating city that seamlessly combines history and modernity",
-        "rating": 5,
-        "price": "700",
-        "duration": 4,
-        "location": "Viet Nam",
-        "category": "Cities"
-      },
-      {
-        "id": "17",
-        "name": "Hoi An",
-        "image": "https://statics.vinpearl.com/vietnam-cities-11_1679901850.jpg",
-        "description": "Hoi An City, known for its picturesque streets, lantern-lit alleys, and cultural landmarks, is a popular destination for tourists visiting Vietnam",
-        "rating": 5,
-        "price": "1100",
-        "duration": 3,
-        "location": "Viet Nam",
-        "category": "Cities"
-      }
-    ]
+    {
+      "id": "1",
+      "name": "Long Beach",
+      "image": "https://statics.vinpearl.com/vietnam-beaches-4_1690363720.jpg",
+      "description": "Stretching for more than twenty kilometers along the coastline, Long Beach (“Bai Truong” in Vietnamese) is the longest and most famous beach on this island",
+      "rating": 4.8,
+      "price": "300",
+      "duration": 5,
+      "location": "Phu Quoc",
+      "category": "Beaches"
+    },
+    {
+      "id": "2",
+      "name": "Doc Let Beach",
+      "image": "https://statics.vinpearl.com/vietnam-beaches-5_1669736030.jpeg",
+      "description": "Considered the most stunning beach in Khanh Hoa Province, Doc Let is a great hideaway in Southern Vietnam",
+      "rating": 4.5,
+      "price": "250",
+      "duration": 6,
+      "location": "Nha Trang",
+      "category": "Beaches"
+    },
+    {
+      "id": "3",
+      "name": "My Khe Beach",
+      "image": "https://statics.vinpearl.com/vietnam-beaches-2_1690363973.jpg",
+      "description": "Among the fabulous sandy best beaches in Vietnam, My Khe Beach is the most famous",
+      "rating": 4.4,
+      "price": "200",
+      "duration": 2,
+      "location": "Da Nang",
+      "category": "Beaches"
+    },
+    {
+      "id": "4",
+      "name": "Ly Son Beach",
+      "image": "https://statics.vinpearl.com/vietnam-beaches-11_1669735960.jpg",
+      "description": "Ly Son Island in Quang Ngai is one of the best beaches in Vietnam",
+      "rating": 5,
+      "price": "350",
+      "duration": 4,
+      "location": "Quang Ngai",
+      "category": "Beaches"
+    },
+    {
+      "id": "5",
+      "name": "Ti Top Beach",
+      "image": "https://statics.vinpearl.com/vietnam-beaches-7_1669735996.jpg",
+      "description": "Ti Top Beach on Ti Top Island is one of the top-rated Vietnam's beaches in Ha Long that you should not miss out on",
+      "rating": 5,
+      "price": "400",
+      "duration": 6,
+      "location": "Ha Long",
+      "category": "Beaches"
+    },
+    {
+      "id": "6",
+      "name": "Do Son Beach",
+      "image": "https://statics.vinpearl.com/vietnam-beaches-3_1690364051.jpg",
+      "description": "Do Son Beach in Hai Phong is one of the best beaches in Vietnam in summer thanks to its convenient location and outstanding beauty",
+      "rating": 4.8,
+      "price": "334",
+      "duration": 2,
+      "location": "Hai Phong",
+      "category": "Beaches"
+    },
+    {
+      "id": "7",
+      "name": "Ky Co Beach",
+      "image": "https://statics.vinpearl.com/vietnam-beaches-12_1669735951.jpg",
+      "description": "Located about 25 kilometers away from Quy Nhon, Ky Co Beach has a pristine beauty with blue sea and white sand",
+      "rating": 5,
+      "price": "440",
+      "duration": 5,
+      "location": "Binh Dinh",
+      "category": "Beaches"
+    },
+    {
+      "id": "8",
+      "name": "Thien Cam Beach",
+      "image": "https://statics.vinpearl.com/vietnam-beaches-6_1690280594.jpg",
+      "description": "Tucked away in the province of Ha Tinh, Vietnam, lies the hidden gem of Thien Cam Beach, a haven of pristine beauty and tranquility",
+      "rating": 5,
+      "price": "500",
+      "duration": 4,
+      "location": "Ha Tinh",
+      "category": "Beaches"
+    },
+    {
+      "id": "9",
+      "name": "Lang Co Beach",
+      "image": "https://statics.vinpearl.com/vietnam-beaches-13_1669735942.jpg",
+      "description": "Voted as one of the world’s most beautiful bays in 2009, Lang Co Bay in Thua Thien Hue province is a top place for a beach vacation in Central Vietnam",
+      "rating": 5,
+      "price": "600",
+      "duration": 6,
+      "location": "Hue",
+      "category": "Beaches"
+    },
+    {
+      "id": "10",
+      "name": "Fansipan Peak",
+      "image": "https://gcs.tripi.vn/public-tripi/tripi-feed/img/474148Tsx/dinh-nui-fansipan-lao-cai-1028201.jpg",
+      "description": "Fansipan is the highest mountain in Vietnam, also known as the Roof of Indochina",
+      "rating": 5,
+      "price": "1000",
+      "duration": 3,
+      "location": "Lao Cai",
+      "category": "Mountains"
+    },
+    {
+      "id": "11",
+      "name": "Bach Ma",
+      "image": "https://gcs.tripi.vn/public-tripi/tripi-feed/img/474148cGF/nui-bach-ma-hue-1028206.jpg",
+      "description": "Situated within the Bạch Mã National Park and reaching a height of 1,450m, this area is renowned as a famous cool retreat in Vietnam",
+      "rating": 4.8,
+      "price": "300",
+      "duration": 5,
+      "location": "Hue",
+      "category": "Mountains"
+    },
+    {
+      "id": "12",
+      "name": "Langbiang",
+      "image": "https://gcs.tripi.vn/public-tripi/tripi-feed/img/474148QjE/nui-langbiang-da-lat-1028207.jpg",
+      "description": "Langbiang Mountain - Da Lat, one of the ideal tourist destinations for travelers. Langbiang is known far and wide as an ideal tourist destination",
+      "rating": 4.8,
+      "price": "330",
+      "duration": 7,
+      "location": "Da Lat",
+      "category": "Mountains"
+    },
+    {
+      "id": "13",
+      "name": "Pu Si Lung",
+      "image": "https://gcs.tripi.vn/public-tripi/tripi-feed/img/474148wuG/pu-si-lung-lai-chau-1028213.jpg",
+      "description": "Pu Si Lung (3,076m) is a mountain located in the northwest of Lai Chau province, between the Da River and the upper reaches of the Nam Na River (a tributary of the Da River) on the Vietnam-China border",
+      "rating": 5,
+      "price": "500",
+      "duration": 2,
+      "location": "Lai Chau",
+      "category": "Mountains"
+    },
+    {
+      "id": "14",
+      "name": "Ho Chi Minh",
+      "image": "https://statics.vinpearl.com/largest-city-in-vietnam-1_1688179194.jpg",
+      "description": "Ho Chi Minh City, the largest city in Vietnam, is a vibrant metropolis. A visit to this bustling city is incomplete without exploring its iconic landmarks",
+      "rating": 5,
+      "price": "2000",
+      "duration": 4,
+      "location": "Viet Nam",
+      "category": "Cities"
+    },
+    {
+      "id": "15",
+      "name": "Hai Phong",
+      "image": "https://statics.vinpearl.com/largest-city-in-vietnam-2_1688179182.jpg",
+      "description": "Hai Phong, as the third largest city in Vietnam, offers the best of nature and cuisine",
+      "rating": 4.8,
+      "price": "300",
+      "duration": 5,
+      "location": "Viet Nam",
+      "category": "Cities"
+    },
+    {
+      "id": "16",
+      "name": "Ha Noi",
+      "image": "https://owa.bestprice.vn/images/destinations/uploads/trung-tam-thanh-pho-ha-noi-603da1f235b38.jpg",
+      "description": "It is a captivating city that seamlessly combines history and modernity",
+      "rating": 5,
+      "price": "700",
+      "duration": 4,
+      "location": "Viet Nam",
+      "category": "Cities"
+    },
+    {
+      "id": "17",
+      "name": "Hoi An",
+      "image": "https://statics.vinpearl.com/vietnam-cities-11_1679901850.jpg",
+      "description": "Hoi An City, known for its picturesque streets, lantern-lit alleys, and cultural landmarks, is a popular destination for tourists visiting Vietnam",
+      "rating": 5,
+      "price": "1100",
+      "duration": 3,
+      "location": "Viet Nam",
+      "category": "Cities"
+    }
   ],
   "promotions": [
     {
